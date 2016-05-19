@@ -3,7 +3,7 @@ body {
 	background-size: cover;
     background-position: center center;
 	font-family: helvetica;
-
+    position: absolute;
 }
 
 /*Stuff below governs the start screen*/
@@ -38,18 +38,174 @@ body {
 /*Stuff below governs the Explore screen*/
 
 #exploreBody {
-	background-position: bottom center;
+	/*background-position: bottom center; */
 
 }
 
-#main{
+#canvas{
     width:700px;
     height: 700px;
-    background-color:#228B22;
+    background-color: #01A611;
+    position: absolute;
      }
 
 #one{
     width:75px;
     height:75px;
+  position:absolute;
+margin-top:200px;
+  margin-left:50px;
+
 }
 
+#flower1{
+  width:75px;
+}
+
+#two{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:25px;
+  margin-left:592px;
+}
+
+#flower2{
+  width:75px;
+}
+#three{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:500px;
+}
+
+#flower3{
+  width:75px;
+}
+#four{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:490px;
+  margin-left:265px;
+}
+
+#flower4{
+  width:75px;
+}
+#five{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:445px;
+  margin-left:570px;
+}
+
+#flower5{
+  width:75px;
+}
+#six{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:110px;
+  margin-left:360px;
+}
+
+#flower6{
+  width:75px;
+}
+#seven{
+    width:75px;
+    height:75px;
+  position:absolute;
+  bottom:-300px;
+  left:400px;
+}
+
+#flower7{
+  width:75px;
+}
+#eight{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:340px;
+  margin-left:460px
+}
+
+#flower8{
+  width:75px;
+  }
+
+#nine{
+    width:75px;
+    height:75px;
+  }
+
+#flower9{
+  width:75px;
+}
+#ten{
+    width:75px;
+    height:75px;
+  margin-top:320px;
+  margin-left:70px;
+}
+
+#flower10{
+  width:75px;
+}
+#eleven{
+    width:75px;
+    height:75px;
+  margin-top:30px;
+  margin-left:400px
+}
+
+#flower11{
+  width:75px;
+}
+#twelve{
+    width:75px;
+    height:75px;
+  margin-top:20px;
+}
+
+#flower12{
+  width:75px;
+}
+#thirteen{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:-400px;
+  margin-left:250px;
+}
+
+#flower13{
+  width:75px;
+}
+#fourteen{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:-500px;
+  margin-left:530px;
+}
+
+#flower14{
+  width:75px;
+}
+#fifteen{
+    width:75px;
+    height:75px;
+  position:absolute;
+  margin-top:-600px;
+  margin-left:150px;
+}
+
+#flower15{
+  width:75px;
+}
